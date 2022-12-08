@@ -2,4 +2,7 @@
 Prof. Liwei Chan
 ### Labs
 Weekly
-### Project-DunjeonGame
+### Project-DungeonGame
+An application of Object-oriented concept
+### Algorithm-Sorting & MinimumSpanningTree & ShortestPath
+Practice to implement some simple algorithm related to data structure
