@@ -1,4 +1,4 @@
-# Data_Structures_and_Object-oriented_Programming
+# Data-Structures-and-Object-oriented-Programming
 ## 2021-Spring-NYCU by Prof. Liwei Chan
 ### Labs
 Weekly practice
